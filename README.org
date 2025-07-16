@@ -1,0 +1,15 @@
+#+title: Hi 👋 I'm Klementiev Dmitry
+#+author: Klementiev Dmitry
+#+email: klementievd08@yandex.ru
+#+date: 2025-07-17 Thu
+
+I am a relatively young programmer. I am interested in things like backend development and artificial intelligence. I am also learning Lisp and Emacs (my main code editor).
+
+In my free time, I study English and do sports.
+
+* Follow me
+
+- [[https://github.com/klvdmyyy][Github]]
+- [[mailto:klementievd08@yandex.ru][Mail to me]]
+- [[https://klvdmyyy.github.io/][Blog]] (Github Pages)
+- +Telegram Channel (My Life)+
