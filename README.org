@@ -11,5 +11,5 @@ In my free time, I study English and do sports.
 
 - [[https://github.com/klvdmyyy][Github]]
 - [[mailto:klementievd08@yandex.ru][Mail to me]]
-- [[https://klvdmyyy.github.io/][Blog]] (Github Pages)
+# - [[https://klvdmyyy.github.io/][Blog]] (Github Pages)
 - +Telegram Channel (My Life)+
